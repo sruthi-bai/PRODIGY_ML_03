@@ -31,3 +31,6 @@ The final feature vector is created by **combining HOG features with RGB color h
 
 ---
 
+## 📈 Accuracy
+- Accuracy on test set: 0.585
+
